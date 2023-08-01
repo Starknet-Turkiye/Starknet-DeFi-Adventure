@@ -45,7 +45,7 @@ You will need to :
 - NFT claim will start 02.08.23 15:00 UTC 
 - NFT claim will be open for 1 week
 
-  <img src="https://pasteboard.co/hxplNTUA4Ll7.jpg">
+  <img src="https://github.com/TobbyKitty/Starknet-DeFi-Adventure/blob/main/1.jpg?raw=true">
 
 ## Starknet DeFi Adventure #2 @soon Exclusive NFT
 ## Starknet DeFi Adventure #3 @soon Exclusive NFT
