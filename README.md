@@ -12,7 +12,7 @@ The "Starknet DeFi Adventure" event has been organized by the Starknet Turkey co
 
 Throughout this event, various tasks will be assigned by the applications themselves for the 6 projects, and wallets that successfully complete each task will be granted the right to mint specific NFTs.
 
-Wallets that complete all 6 NFT tasks will have the chance to mint the 7th Legendary NFT.
+Wallets that complete 5 of 6 NFT tasks will have the chance to mint the 7th Legendary NFT.
 
 <div align="center">
   <h3> Are you ready for an adventure on Starknet? 👀 </h3>
