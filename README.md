@@ -1,9 +1,8 @@
 <div align="center">
 <!-- Remember: Keep a span between the HTML tag and the markdown tag.  -->
 
-  <h1>The Cairo Programming Language Book</h1>
-  <h3> Alexandria </h3>
-  <img src="assets/alexandria.jpg" height="400" width="400">
+  <h1>Starknet DeFi Adventure by Starknet Türkiye</h1>
+  <img src="[assets/alexandria.jpg](https://ibb.co/zrrpM7n)" height="400" width="400">
 </div>
 
 ## Description
