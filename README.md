@@ -2,7 +2,7 @@
 <!-- Remember: Keep a span between the HTML tag and the markdown tag.  -->
 
   <h1>Starknet DeFi Adventure by Starknet Türkiye</h1>
-  <img src="[assets/alexandria.jpg](https://ibb.co/zrrpM7n)" height="400" width="400">
+  <img src="https://ibb.co/zrrpM7n" height="400" width="400">
 </div>
 
 ## Description
