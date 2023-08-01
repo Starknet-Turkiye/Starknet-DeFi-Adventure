@@ -18,7 +18,7 @@ Wallets that complete 5 of 6 NFT tasks will have the chance to mint the 7th Lege
   <h3> Are you ready for an adventure on Starknet? 👀 </h3>
 </div>
 
-<img src="(https://github.com/TobbyKitty/Starknet-DeFi-Adventure/blob/main/1500x500.jpeg?raw=true)">
+<img src="https://github.com/TobbyKitty/Starknet-DeFi-Adventure/blob/main/1500x500.jpeg?raw=true">
 
 
 ## FAQ
