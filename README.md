@@ -27,14 +27,21 @@ Wallets that complete all 6 NFT tasks will have the chance to mint the 7th Legen
 - For all your questions, you can stop by the Starknet Turkey Discord channel. (https://discord.gg/Cuz59cQyen)
 - And the event includes 6 applications: zkLend, Fibrous, mySwap, Braavos, Unframed, and Nostra you can also tune in their Discord channels:
   
-Fibrous: https://discord.gg/fibrous
-Argent: https://discord.gg/argenthq
-Braavos: https://discord.com/invite/MZPkZfE9F2
-zkLend: https://discord.gg/Uy7UaXs3vY
-Nostra: https://discord.gg/nostrafinance
-mySwap: https://discord.gg/JxVKW6GXtV
+-> Fibrous: https://discord.gg/fibrous
+-> Argent: https://discord.gg/argenthq
+-> Braavos: https://discord.com/invite/MZPkZfE9F2
+-> zkLend: https://discord.gg/Uy7UaXs3vY
+-> Nostra: https://discord.gg/nostrafinance
+-> mySwap: https://discord.gg/JxVKW6GXtV
 
 ### Starknet DeFi Adventure #1 @zkLend Exclusive NFT
+You will need to :   
+
+💠Go to https://app.zklend.com/markets 
+💠Deposit any asset worth $5 / 0.003 ETH
+💠Complete the mission before 01.08.23 16:00 UTC
+💠NFT claim will start 02.08.23 15:00 UTC 
+💠NFT claim will be open for 1 week
 
   <img src="https://pasteboard.co/hxplNTUA4Ll7.jpg">
 
