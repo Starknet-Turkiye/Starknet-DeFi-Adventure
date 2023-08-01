@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Remember: Keep a span between the HTML tag and the markdown tag.  -->
 
-  <h1>Starknet DeFi Adventure by Starknet Türkiye</h1>
+  <h1>Starknet DeFi Adventure by Starknet Türkiye ✨🐺 </h1>
   <img src="https://i.ibb.co/KXXdPL0/starknet-Turkiye-logo.png">
 </div>
 
