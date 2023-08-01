@@ -23,7 +23,7 @@ Wallets that complete all 6 NFT tasks will have the chance to mint the 7th Legen
 - The First Adventure will start on 30.07.2023 16:00 UTC.
 - Tasks will be announced by the projects. You have 2 days to complete.
 - NFT claim will be open for 1 week after.
-- NFT's will be claimed at Starknet Türkiye's official web-site which will be announced soon.
+- NFT's will be claimed at Starknet Türkiye's official web-site (https://adventure.starknetturkiye.org/)
 - For all your questions, you can stop by the Starknet Turkey Discord channel. (https://discord.gg/Cuz59cQyen)
 - And the event includes 6 applications: zkLend, Fibrous, mySwap, Braavos, Unframed, and Nostra you can also tune in their Discord channels:
 
