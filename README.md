@@ -47,10 +47,10 @@ You will need to :
 
   <img src="https://pasteboard.co/hxplNTUA4Ll7.jpg">
 
-### Starknet DeFi Adventure #2 @soon Exclusive NFT
-### Starknet DeFi Adventure #3 @soon Exclusive NFT
-### Starknet DeFi Adventure #4 @soon Exclusive NFT
-### Starknet DeFi Adventure #5 @soon Exclusive NFT
-### Starknet DeFi Adventure #6 @soon Exclusive NFT
+## Starknet DeFi Adventure #2 @soon Exclusive NFT
+## Starknet DeFi Adventure #3 @soon Exclusive NFT
+## Starknet DeFi Adventure #4 @soon Exclusive NFT
+## Starknet DeFi Adventure #5 @soon Exclusive NFT
+## Starknet DeFi Adventure #6 @soon Exclusive NFT
 ## Starknet DeFi Adventure #7 @soon Legendary NFT
   
