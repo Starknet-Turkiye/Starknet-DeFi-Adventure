@@ -15,10 +15,8 @@ Throughout this event, various tasks will be assigned by the applications themse
 Wallets that complete 5 of 6 NFT tasks will have the chance to mint the 7th Legendary NFT.
 
 <div align="center">
-  <h3> Are you ready for an adventure on Starknet? 👀 </h3>
+  <h2> Are you ready for an adventure on Starknet? 👀 </h2>
 </div>
-
-<img src="https://github.com/TobbyKitty/Starknet-DeFi-Adventure/blob/main/1500x500.jpeg?raw=true">
 
 
 ## FAQ
