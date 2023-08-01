@@ -1,6 +1,3 @@
-# Starknet-DeFi-Adventure
-Starknet DeFi Adventure by Starknet Türkiye
-
 = Welcome to The Starknet Book
 :navtitle: The Starknet Book
 
@@ -230,4 +227,3 @@ a|
 a|
 a|
 |===
-
