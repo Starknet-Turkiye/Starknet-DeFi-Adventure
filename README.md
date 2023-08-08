@@ -55,6 +55,8 @@ You will need to:
 - Deposit any asset worth $5 / 0.003 ETH 
 - Complete the mission in between 02.08.23-04.08.23 16:00 UTC
 - Eligible wallet addresses will be announced on 05.08.23 15:00 UTC.
+- NFT claim will be open for 1 week
+
 
   <img src="https://github.com/Starknet-Turkiye/Starknet-DeFi-Adventure/blob/main/2.jpg">
 
@@ -66,6 +68,8 @@ You will need to:
 - Add Liquidity to any pool more than $5 with any token you want.
 - Complete the mission in between 05.08.23-07.08.23 16:00 UTC
 - Claim will be opened on 08.08.23 15:00 UTC.
+- NFT claim will be open for 1 week
+
 
     <img src="https://github.com/Starknet-Turkiye/Starknet-DeFi-Adventure/blob/main/3.jpg">
     
@@ -75,6 +79,8 @@ You will need to:
 - Swap at least $10 worth of any token.
 - Complete the mission in between 08.08.23-10.08.23 16:00 UTC
 - Claim will be opened on 11.08.23 15:00 UTC.
+- NFT claim will be open for 1 week
+
 
   <img src="https://github.com/Starknet-Turkiye/Starknet-DeFi-Adventure/blob/main/4.jpg">
 
