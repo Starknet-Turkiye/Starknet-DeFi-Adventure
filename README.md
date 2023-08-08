@@ -69,7 +69,15 @@ You will need to:
 
     <img src="https://github.com/Starknet-Turkiye/Starknet-DeFi-Adventure/blob/main/3.jpg">
     
-## Starknet DeFi Adventure #4 @soon Exclusive NFT
+## Starknet DeFi Adventure #4 @FibrousFinance Exclusive NFT
+You will need to:
+- Go to https://app.fibrous.finance/
+- Swap at least $10 worth of any token.
+- Complete the mission in between 08.08.23-10.08.23 16:00 UTC
+- Claim will be opened on 11.08.23 15:00 UTC.
+
+  <img src="https://github.com/Starknet-Turkiye/Starknet-DeFi-Adventure/blob/main/4.jpg">
+
 ## Starknet DeFi Adventure #5 @soon Exclusive NFT
 ## Starknet DeFi Adventure #6 @soon Exclusive NFT
 ## Starknet DeFi Adventure #7 @soon Legendary NFT
