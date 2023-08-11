@@ -84,7 +84,16 @@ You will need to:
 
   <img src="https://github.com/Starknet-Turkiye/Starknet-DeFi-Adventure/blob/main/4.jpg">
 
-## Starknet DeFi Adventure #5 @soon Exclusive NFT
+## Starknet DeFi Adventure #5 @myBraavos Exclusive NFT
+You will need to:
+- Go to Braavos Wallet
+- Stake a minimum of 0.01 ETH via the Braavos wallet with the 'Braavos Exclusive' option.
+- Complete the mission 11.08.23-13.08.23 16:00 UTC
+- Claim will be opened on 14.08.23 15:00 UTC
+- NFT claim will be open for 1 week
+
+  <img src="https://github.com/Starknet-Turkiye/Starknet-DeFi-Adventure/blob/main/5.jpg">
+  
 ## Starknet DeFi Adventure #6 @soon Exclusive NFT
 ## Starknet DeFi Adventure #7 @soon Legendary NFT
   
